@@ -1,0 +1,6 @@
+trace: tcp_connect
+fields: pid, comm, saddr, daddr, sport, dport
+
+# This file describes what you want to trace.
+# 'trace' is the kernel function or event to monitor.
+# 'fields' are the data fields you want to collect for each event.
