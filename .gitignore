@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# eBPF generated files
+src/ebpf/tcp_trace.bpf.c
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
