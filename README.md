@@ -19,5 +19,5 @@ You write your tracing requirements in `spec.txt`, and the Python script generat
 ## Author
 Alejandro Mercado Peña
 
-- A comprehensive explanation can be found in my blog
+- A comprehensive explanation can be found in my blog  
 [Read on Medium](https://alexmarket.medium.com/offloading-the-tedious-task-of-writing-ebpf-programs-e8ebfce45c69)
